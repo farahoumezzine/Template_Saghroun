@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 Jan 2024 11:38:53 at https://quanticalabs.com/Fable/Template/?page=home-5#page +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://quanticalabs.com/Fable/Template/?page=home-5#page -O1 "C:\wamp64\www\Saghroun" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:39:36	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+11:39:36	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/page (from primary/primary)
+11:45:43	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/page (from primary/primary)
+11:45:44	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/fonts/flexslider-icon.eot (from https://quanticalabs.com/Fable/Template/style/flexslider.css)
+11:45:44	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/fonts/flexslider-icon.eot? (from https://quanticalabs.com/Fable/Template/style/flexslider.css)
+11:45:45	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/fonts/flexslider-icon.woff (from https://quanticalabs.com/Fable/Template/style/flexslider.css)
+11:45:45	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/fonts/flexslider-icon.ttf (from https://quanticalabs.com/Fable/Template/style/flexslider.css)
+11:45:45	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/fonts/flexslider-icon.svg (from https://quanticalabs.com/Fable/Template/style/flexslider.css)
+11:45:46	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/fonts/revicons/revicons.eot?5510888 (from https://quanticalabs.com/Fable/Template/style/revslider/settings.css)
+11:45:46	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/fonts/revicons/revicons.woff?5510888 (from https://quanticalabs.com/Fable/Template/style/revslider/settings.css)
+11:45:46	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/fonts/revicons/revicons.ttf?5510888 (from https://quanticalabs.com/Fable/Template/style/revslider/settings.css)
+11:45:47	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/fonts/revicons/revicons.svg?5510888 (from https://quanticalabs.com/Fable/Template/style/revslider/settings.css)
+11:45:47	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/revslider/openhand.cur (from https://quanticalabs.com/Fable/Template/style/revslider/settings.css)
+11:45:47	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/revslider/closedhand.cur (from https://quanticalabs.com/Fable/Template/style/revslider/settings.css)
+11:45:48	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/assets/gridtile.png (from https://quanticalabs.com/Fable/Template/style/revslider/settings.css)
+11:45:48	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/assets/gridtile_white.png (from https://quanticalabs.com/Fable/Template/style/revslider/settings.css)
+11:45:48	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/assets/gridtile_3x3.png (from https://quanticalabs.com/Fable/Template/style/revslider/settings.css)
+11:45:49	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/assets/gridtile_3x3_white.png (from https://quanticalabs.com/Fable/Template/style/revslider/settings.css)
+11:45:49	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/assets/coloredbg.png (from https://quanticalabs.com/Fable/Template/style/revslider/settings.css)
+11:45:50	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/style/assets/loader.gif (from https://quanticalabs.com/Fable/Template/style/revslider/settings.css)
+11:45:50	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/media/image/icon/menu/breifcase.png (from https://quanticalabs.com/Fable/Template/style/base.css)
+11:45:50	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/media/image/icon/menu/coffe.png (from https://quanticalabs.com/Fable/Template/style/base.css)
+11:45:51	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/media/image/2x/icon/menu/breifcase.png (from https://quanticalabs.com/Fable/Template/style/retina.css)
+11:45:52	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/media/image/2x/icon/menu/coffe.png (from https://quanticalabs.com/Fable/Template/style/retina.css)
+11:45:52	Error: 	"Not Found" (404) at link https://quanticalabs.com/Fable/Template/media/2x/image/menu_icon.png (from https://quanticalabs.com/Fable/Template/style/retina.css)
+11:46:10	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/page (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 17 seconds : 1514 links scanned, 1487 files written (19145700 bytes overall) [15681369 bytes received at 35884 bytes/sec], 6566867 bytes transferred using HTTP compression in 166 files, ratio 16%, 167.7 requests per connection
+(24 errors, 2 warnings, 0 messages)
